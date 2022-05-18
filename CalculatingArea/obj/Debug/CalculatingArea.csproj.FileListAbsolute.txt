@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\bin\Debug\CalculatingArea.dll
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\bin\Debug\CalculatingArea.pdb
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\obj\Debug\CalculatingArea.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\obj\Debug\CalculatingArea.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\obj\Debug\CalculatingArea.dll
+C:\Users\User\source\repos\CalculatingSquares\CalculatingArea\obj\Debug\CalculatingArea.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\bin\Debug\CalculatingSquares.exe.config
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\bin\Debug\CalculatingSquares.exe
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\bin\Debug\CalculatingSquares.pdb
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\bin\Debug\CalculatingArea.dll
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\bin\Debug\CalculatingArea.pdb
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.csproj.CopyComplete
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.exe
+C:\Users\User\source\repos\CalculatingSquares\CalculatingSquares\obj\Debug\CalculatingSquares.pdb
